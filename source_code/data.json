@@ -1,0 +1,1 @@
+{"temperature": 25.98, "ph": 7.7, "turbidity": 94, "tds": 986, "water_level": 29, "status": "UNSAFE", "alerts": ["High Turbidity", "High TDS", "Low Water Level"], "timestamp": "12:02:29"}
